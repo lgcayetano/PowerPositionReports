@@ -58,10 +58,15 @@ CSV files are saved to the configured `FolderPath` with the following format:
 **Content:**
 
 Local Time,Volume
+
 23:00,150
+
 00:00,150
+
 01:00,80
+
 ...
+
 22:00,80
 
 ---
